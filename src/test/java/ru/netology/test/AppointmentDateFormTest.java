@@ -1,5 +1,4 @@
 package ru.netology.test;
-package ru.netology.test;
 
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.Test;
